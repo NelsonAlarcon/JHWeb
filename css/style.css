@@ -18,7 +18,7 @@ body {
 }
 header {
   margin: 0;
-  background: url(https://cdn.pixabay.com/photo/2019/03/29/04/35/tools-4088531_960_720.jpg);
+  background: url(../img/hero.jpg);
   height: 100vh;
   background-repeat: no-repeat;
   background-position: center;
