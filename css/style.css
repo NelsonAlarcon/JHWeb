@@ -18,7 +18,7 @@ body {
 }
 header {
   margin: 0;
-  background: url(../img/hero1.jpg);
+  background: url(https://cdn.pixabay.com/photo/2019/03/29/04/35/tools-4088531_960_720.jpg);
   height: 100vh;
   background-repeat: no-repeat;
   background-position: center;
@@ -67,11 +67,11 @@ nav ul li a:hover {
   border-radius: 2rem;
   padding: 0.3rem 2rem;
 }
-.carrito{
+.carrito {
   font-size: 2rem;
   color: #e1e1e1;
 }
-.carrito:hover{
+.carrito:hover {
   background-color: #000000;
 }
 .wave {
@@ -219,7 +219,7 @@ article img {
 article img:hover {
   cursor: pointer;
   transform: scale(0.95);
-  box-shadow: 0px 22px 15px -21px rgba(255,255,255,0.85);
+  box-shadow: 0px 22px 15px -21px rgba(255, 255, 255, 0.85);
 }
 .descripcion-articulo {
   font-size: 2rem;
@@ -463,6 +463,6 @@ label {
   border: 1px solid #000428;
   width: 100%;
 }
-.map{
+.map {
   width: 100%;
 }
